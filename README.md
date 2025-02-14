@@ -65,7 +65,7 @@ In addition to my blockchain expertise, I am deeply passionate about **AI, stock
 ---
 
 ## 📫 Let's Connect  
-[![GitHub](https://github.com/BLOCK-PROGRAMR)  
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat-square&logo=github&logoColor=white)](https://github.com/your-username)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)  
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-profile)  
 

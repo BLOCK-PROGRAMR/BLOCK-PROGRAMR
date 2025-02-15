@@ -62,7 +62,7 @@ In addition to my blockchain expertise, I am deeply passionate about **AI, stock
 ## 🏆 Hackathons & Competitions  
 - 🥇 **K! Hackathons** – Participated and contributed blockchain-based solutions.  
 - 🔥 **Open Source Contributions** – Collaborating with Web3 communities for blockchain advancements.
-- 🥇 **articipating SIH hackathon**
+- 🥇 **Participating SIH hackathon**
 
 ---
 
@@ -71,4 +71,4 @@ In addition to my blockchain expertise, I am deeply passionate about **AI, stock
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)  
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-profile)  
 
-🚀 **Let’s collaborate on blockchain innovations, AI projects, and financial ventures to shape the future!**  
+🚀 **Let’s collaborate on Blockchain innovations, AI projects, and financial ventures to shape the future!**  

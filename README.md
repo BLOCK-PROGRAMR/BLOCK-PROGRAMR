@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Nithinkumar Pedda  
 
 🚀 **Blockchain Developer | Smart Contract Auditor | Full-Stack Engineer**  
-🎓 **BTech CSE (2nd Year, 2nd Semester) | Trading | Investment**  
+🎓 **BTech CSE (Prefinal year) | Trading | Investment**  
 💡 **Building the Future with Blockchain, AI, Finance & Entrepreneurship**  
 
 ---
@@ -9,7 +9,7 @@
 ## 🚀 About Me  
 I am a dedicated **Blockchain Developer** with 2+ years of experience in **Layer 2 blockchain solutions**, **smart contract development and auditing**, and **decentralized application (DApp) development**. My technical journey spans across building secure, scalable blockchain solutions while contributing to real-world Web3 projects.
 
-In addition to my blockchain expertise, I am deeply passionate about **AI, stock market investing, and finance**, aiming to integrate these domains into my entrepreneurial aspirations. Currently, I am in my 2nd year of **BTech in Computer Science and Engineering (CSE)** and participating in **K! hackathons** to sharpen my problem-solving skills.
+In addition to my blockchain expertise, I am deeply passionate about **AI, stock market investing, and finance**, aiming to integrate these domains into my entrepreneurial aspirations. Currently, I am in my Prefinal year of **BTech in Computer Science and Engineering (CSE)** and participating in **Auditing Platforms** audit the smart contracts and improve my skills everyday..
 
 ---
 
@@ -26,10 +26,8 @@ In addition to my blockchain expertise, I am deeply passionate about **AI, stock
 
 ## 🔥 Achievements  
 - ✅ **2+ Years Experience in Smart Contract Development and Auditing**  
-- ✅ **Expertise in Layer 2 Blockchain Solutions**  
 - ✅ **Built Secure DApps with Ethereum & Solana Ecosystems**  
-- ✅ **Contributed to Real-World Web3 Projects**  
-- ✅ **Participated in K! Hackathons**  
+- ✅ **Contributed to Real-World Web3 Projects**   
 - ✅ **Actively Solving Blockchain CTFs**
 - ✅ **Participated in Competative Audits**
 

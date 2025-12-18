@@ -1,72 +1,65 @@
-# 👋 Hi, I'm Nithinkumar Pedda  
+# Hi, I'm Nithinkumar Pedda
 
-🚀 **Blockchain Developer | Smart Contract Auditor | Full-Stack Engineer**  
-🎓 **BTech CSE (Prefinal year) | Trading | Investment**  
-💡 **Building the Future with Blockchain, AI, Finance & Entrepreneurship**  
+Blockchain Developer and Smart Contract Auditor
+BTech CSE (Prefinal Year)
 
----
+## About Me
 
-## 🚀 About Me  
-I am a dedicated **Blockchain Developer** with 2+ years of experience in **Layer 2 blockchain solutions**, **smart contract development and auditing**, and **decentralized application (DApp) development**. My technical journey spans across building secure, scalable blockchain solutions while contributing to real-world Web3 projects.
+I am a blockchain developer and smart contract auditor with over two years of hands-on experience across Ethereum, Layer 2 networks, and Solana. My primary focus is smart contract security, including manual audits, protocol analysis, and competitive auditing. I work with a security-first mindset, aiming to understand systems deeply and identify real, practical vulnerabilities.
 
-In addition to my blockchain expertise, I am deeply passionate about **AI, stock market investing, and finance**, aiming to integrate these domains into my entrepreneurial aspirations. Currently, I am in my Prefinal year of **BTech in Computer Science and Engineering (CSE)** and participating in **Auditing Platforms** audit the smart contracts and improve my skills everyday..
+I am currently strengthening my expertise in Solana and Rust while actively participating in competitive audits and CTFs. I also have a strong interest in finance and long-term product building.
 
----
+## Audit Experience
 
-## 💼 Tech Stack  
-- **Blockchain:** Solidity, Rust (Solana), Hardhat, Ethers.js,Web3.js,Ethereum,Layer2(working) 
-- **Frontend:** React.js, Tailwind CSS, Parcel Bundler  
-- **Backend:** Node.js, Express.js,Python
-- **Database:** MongoDB ,SQL
-- **PythonLibraries:** Webscraping,pandas,numpy,opencv
-- **Tools:** Git, Docker, CI/CD, VS Code  
-- **Other Interests:** AI, Stock Market, Finance, Entrepreneurship  
+| Protocol / Project | Platform   | Prize                     | Outcome        | Reference |
+| ------------------ | ---------- | ------------------------- | -------------- | --------- |
+| Kuru Protocol   | Cantina  | $605(rank top20) | 1H  | [Link](https://block-programr.github.io/assets/images/audits/kuru-proof.jpg)   |
+| Megapot  | Code4rena   | $177(rank-16)          | 1H,1M       | [Link](https://code4rena.com/audits/2025-11-megapot)      |
 
----
+## Technical Skills
 
-## 🔥 Achievements  
-- ✅ **2+ Years Experience in Smart Contract Development and Auditing**  
-- ✅ **Built Secure DApps with Ethereum & Solana Ecosystems**  
-- ✅ **Contributed to Real-World Web3 Projects**   
-- ✅ **Actively Solving Blockchain CTFs**
-- ✅ **Participated in Competative Audits**
+Blockchain: Solidity, Rust (Solana), Ethereum, Layer 2s, Hardhat, Ethers.js, Web3.js
 
----
+Frontend: React, Tailwind CSS
 
-## 📈 My Goals (Next 3 Years)  
-🔹 **Master the Stock Market, Finance, and Company Creation**  
-🔹 **Achieve Mastery in Blockchain Auditing and Solana Development with Rust**   
-🔹 **Launch and Scale My Own Tech Startup Focused on Blockchain and AI**  
+Backend: Node.js, Express, Python
 
----
+Databases: MongoDB, SQL
 
-## 🛠️ Projects I've Worked On  
-- 🧩 **Layer 2 Smart Contract Solutions** – Enhanced scalability and security for decentralized systems.  
-- 🛡️ **Smart Contract Audits** – Ensured secure, error-free code for Web3 companies.  
-- 🌐 **Decentralized Applications** – Built feature-rich DApps using Ethereum and Solana ecosystems.  
-- 🕹️ **Web3 Gaming Integrations** – Worked with gaming companies on blockchain-based solutions.
-- 🏫 **Develop one school website ** -Using Mern stack to develop these website with in 3 months.
+Tools: Git, Docker, CI/CD
 
----
+## Current Focus
 
-## ⚡ Current Focus  
-- 🔍 **Smart Contract Security** – Solving challenges on Ethernaut to refine my auditing skills.   
-- 🔗 **Blockchain Research** – Exploring Rust for Solana and advanced auditing techniques.  
-- 💹 **Stock Market Analysis** – Learning finance and investment strategies for entrepreneurial ventures.
-- 🔗 ** Actively participating competative Audits to secure good rank**
+Smart contract auditing and protocol security
 
----
+Solana internals and Rust-based development
 
-## 🏆 Hackathons & Competitions  
-- 🥇 **K! Hackathons** – Participated and contributed blockchain-based solutions.  
-- 🔥 **Open Source Contributions** – Collaborating with Web3 communities for blockchain advancements.
-- 🥇 **Participating SIH hackathon**
+CTFs and competitive audits
 
----
+Finance and market fundamentals
 
-## 📫 Let's Connect  
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat-square&logo=github&logoColor=white)](https://github.com/your-username)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-profile)  
+## Selected Work
 
-🚀 **Let’s collaborate on Blockchain innovations, AI projects, and financial ventures to shape the future!**  
+Smart contract audits for DeFi and liquidity protocols in competative platforms
+
+Layer 2 smart contract development
+
+Full-stack Web3 applications
+
+MERN-based school website development
+
+## Hackathons and Community
+
+K! Hackathons participant
+
+SIH Hackathon participant
+
+Open-source and Web3 community contributions
+
+## Contact
+
+[GitHub](https://github.com/BLOCK-PROGRAMR)
+
+[LinkedIn](https://www.linkedin.com/in/5C4T3R)
+
+[X](https://x.com/0x_Scater)

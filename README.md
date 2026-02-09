@@ -39,15 +39,6 @@ CTFs and competitive audits
 
 Finance and market fundamentals
 
-## Selected Work
-
-Smart contract audits for DeFi and liquidity protocols in competative platforms
-
-Layer 2 smart contract development
-
-Full-stack Web3 applications
-
-MERN-based school website development
 
 ## Hackathons and Community
 

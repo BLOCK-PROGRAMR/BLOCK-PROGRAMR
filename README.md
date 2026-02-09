@@ -15,6 +15,7 @@ I am currently strengthening my expertise in Solana and Rust while actively part
 | ------------------ | ---------- | ------------------------- | -------------- | --------- |
 | Kuru Protocol   | Cantina  | $605(rank top20) | 1H  | [Link](https://block-programr.github.io/assets/images/audits/kuru-proof.jpg)   |
 | Megapot  | Code4rena   | $177(rank-16)          | 1H,1M       | [Link](https://code4rena.com/audits/2025-11-megapot)      |
+| Ekubo    | Code4rena   | $1505(rank- #6)        | Qa report(#1)| [Link](https://code4rena.com/audits/2025-11-ekubo)       |
 
 ## Technical Skills
 

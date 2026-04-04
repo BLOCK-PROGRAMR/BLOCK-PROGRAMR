@@ -20,10 +20,10 @@
 
 | Protocol | Platform | Rank | Findings | Prize |
 |----------|----------|------|----------|-------|
-| [Intuition](https://code4rena.com) | Code4rena | **2nd Place** 🥈 | 1 Medium | $445 |
-| [Ekubo](https://code4rena.com) | Code4rena | **6th** | QA Report #1 | $1,505 |
+| [Intuition](https://code4rena.com/audits/2026-03-intuition) | Code4rena | **2nd Place** 🥈 | 1 Medium +2nd rank QA report| $445 |
+| [Ekubo](https://code4rena.com/audits/2025-11-ekubo) | Code4rena | **6th** | QA Report #1 | $1,505 |
 | [Kuru Protocol](https://cantina.xyz) | Cantina | **Top 20** | 1 High | $605 |
-| [Megapot](https://code4rena.com) | Code4rena | 16th | 1 High, 1 Medium | $177 |
+| [Megapot](https://code4rena.com/audits/2025-11-megapot) | Code4rena | 16th | 1 High, 1 Medium | $177 |
 
 ---
 

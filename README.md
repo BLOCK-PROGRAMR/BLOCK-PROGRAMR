@@ -8,7 +8,7 @@
 
 ## 👤 Nithinkumar Pedda
 
-**Blockchain Security Researcher** · B.Tech CSE (Pre-Final Year)
+**Blockchain Security Researcher** · **Web3 Security Triager @ QuillAudits** · B.Tech CSE (Pre-Final Year)
 
 2+ years of adversarial research across **Ethereum**, **Layer 2s**, and **Solana** — focused on state transitions, cross-function interactions, and invariant-breaking exploit paths.
 
@@ -20,10 +20,24 @@
 
 | Protocol | Platform | Rank | Findings | Prize |
 |----------|----------|------|----------|-------|
-| [Intuition](https://code4rena.com/audits/2026-03-intuition) | Code4rena | **2nd Place** 🥈 | 1 Medium +2nd rank QA report| $445 |
+| [Revert](https://cantina.xyz/u/0xscater) | Cantina | **1st Place** 🥇 | Top Finisher | — |
+| [Intuition](https://code4rena.com/audits/2026-03-intuition) | Code4rena | **2nd Place** 🥈 | 1 Medium + #2 QA Report | $445 |
 | [Ekubo](https://code4rena.com/audits/2025-11-ekubo) | Code4rena | **6th** | QA Report #1 | $1,505 |
-| [Kuru Protocol](https://cantina.xyz) | Cantina | **Top 20** | 1 High | $605 |
-| [Megapot](https://code4rena.com/audits/2025-11-megapot) | Code4rena | 16th | 1 High, 1 Medium | $177 |
+| [Kuru Protocol](https://cantina.xyz/u/0xscater) | Cantina | **Top 20** | 1 High | $605 |
+| [Megapot](https://code4rena.com/audits/2025-11-megapot) | Code4rena | **16th** | 1 High, 1 Medium | $177 |
+
+---
+
+## 💼 Experience
+
+**Web3 Security Triager** — QuillAudits *(FeistelBlock Technology)*
+`May 2026 – Present` · Remote
+- Triaging smart contract vulnerability reports from security researchers
+- Validating severity classifications across EVM-based DeFi protocols
+
+**Competitive Smart Contract Auditor** — Code4rena · Cantina · Sherlock
+`2025 – Present` · Remote
+- 5+ contests with top finishes including **2× #1 ranked** results
 
 ---
 
@@ -40,10 +54,10 @@
 ## 🛠 Technical Stack
 
 **Security & Auditing**
-`Foundry` · `Hardhat` · `Manual Review` · `Echidna`
+`Foundry` · `Hardhat` · `Manual Review` · `Echidna` · `Slither` · `Aderyn`
 
 **Blockchain**
-`Solidity` · `Rust (Solana)` · `Ethereum` · `Layer 2`
+`Solidity` · `Rust (Solana/Anchor)` · `Ethereum` · `Layer 2` · `ZK (Circom/Groth16)`
 
 **Dev & Infra**
 `Node.js` · `Python` · `Ethers.js` · `Docker` · `Git`
@@ -65,3 +79,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-5C4T3R-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/5C4T3R)
 [![GitHub](https://img.shields.io/badge/GitHub-BLOCK--PROGRAMR-gray?logo=github&style=flat)](https://github.com/BLOCK-PROGRAMR)
 [![Code4rena](https://img.shields.io/badge/Code4rena-0xscater-purple?style=flat)](https://code4rena.com/@0xscater)
+[![QuillAudits](https://img.shields.io/badge/QuillAudits-Web3%20Security%20Triager-green?style=flat)](https://www.quillaudits.com)

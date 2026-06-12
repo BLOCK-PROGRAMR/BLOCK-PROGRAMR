@@ -27,7 +27,7 @@
 | [Megapot Protocol](https://code4rena.com/audits/2025-11-megapot) | Code4rena | **#16** | 1 High, 1 Medium | $177.99 |
 | [ChainLink Protocol](https://code4rena.com/@0w1) | Code4rena | **#11** | 1 Medium | $0 |
 
-**Total Earnings: $8,029.43**
+
 
 ---
 

@@ -16,7 +16,7 @@
 
 ---
 
-## 🏆 Audit Record
+## 🏆 Audits
 
 | Protocol | Platform | Rank | Findings | Prize |
 |----------|----------|------|----------|-------|
@@ -31,7 +31,7 @@
 
 ---
 
-## 💼 Experience
+##  Experience
 
 **Web3 Security Triager** — QuillAudits *(FeistelBlock Technology)*
 `May 2026 – Present` · Remote
@@ -67,7 +67,7 @@
 
 ---
 
-## 📌 Current Focus
+##  Current Focus
 
 - Competitive audits on **Solana** and **EVM**
 - Deep research into **EVM internals** and **Solana runtime**
@@ -76,7 +76,7 @@
 
 ---
 
-## 🔗 Links
+## Links
 
 [![X](https://img.shields.io/badge/X-@0x__Scater-black?logo=x&style=flat)](https://x.com/0x_Scater)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-5C4T3R-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/5C4T3R)
